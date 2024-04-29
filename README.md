@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-Hello, i am a student in computer science from France.
+Hello, i am a student in computer sciences from France.
 ## Stack
 
 ### Object
